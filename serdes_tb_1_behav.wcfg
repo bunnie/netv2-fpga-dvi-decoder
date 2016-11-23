@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="serdes_tb_1_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="serdes_tb_1" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="27247784001fs"></ZoomEndTime>
+      <Cursor1Time time="0fs"></Cursor1Time>
+   </zoom_setting>
+   <WVObjectSize size="33" />
+   <wvobject fp_name="/serdes_tb_1/mhz200_clk" type="logic">
+      <obj_property name="ElementShortName">mhz200_clk</obj_property>
+      <obj_property name="ObjectShortName">mhz200_clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/rx_clk" type="logic">
+      <obj_property name="ElementShortName">rx_clk</obj_property>
+      <obj_property name="ObjectShortName">rx_clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/ex_reset" type="logic">
+      <obj_property name="ElementShortName">ex_reset</obj_property>
+      <obj_property name="ObjectShortName">ex_reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/p_clk" type="logic">
+      <obj_property name="ElementShortName">p_clk</obj_property>
+      <obj_property name="ObjectShortName">p_clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/px5_clk" type="logic">
+      <obj_property name="ElementShortName">px5_clk</obj_property>
+      <obj_property name="ObjectShortName">px5_clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/px1p25_clk" type="logic">
+      <obj_property name="ElementShortName">px1p25_clk</obj_property>
+      <obj_property name="ObjectShortName">px1p25_clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/data_p" type="logic">
+      <obj_property name="ElementShortName">data_p</obj_property>
+      <obj_property name="ObjectShortName">data_p</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/data_n" type="logic">
+      <obj_property name="ElementShortName">data_n</obj_property>
+      <obj_property name="ObjectShortName">data_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/deserialized" type="array">
+      <obj_property name="ElementShortName">deserialized[9:0]</obj_property>
+      <obj_property name="ObjectShortName">deserialized[9:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/clkfb_2" type="logic">
+      <obj_property name="ElementShortName">clkfb_2</obj_property>
+      <obj_property name="ObjectShortName">clkfb_2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/clk_pixel_raw" type="logic">
+      <obj_property name="ElementShortName">clk_pixel_raw</obj_property>
+      <obj_property name="ObjectShortName">clk_pixel_raw</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/clk_pixel_x5_raw" type="logic">
+      <obj_property name="ElementShortName">clk_pixel_x5_raw</obj_property>
+      <obj_property name="ObjectShortName">clk_pixel_x5_raw</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/clk_pixel_x1p25_raw" type="logic">
+      <obj_property name="ElementShortName">clk_pixel_x1p25_raw</obj_property>
+      <obj_property name="ObjectShortName">clk_pixel_x1p25_raw</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/clk_pixel_x1p25_dbg_raw" type="logic">
+      <obj_property name="ElementShortName">clk_pixel_x1p25_dbg_raw</obj_property>
+      <obj_property name="ObjectShortName">clk_pixel_x1p25_dbg_raw</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/pll_lckd" type="logic">
+      <obj_property name="ElementShortName">pll_lckd</obj_property>
+      <obj_property name="ObjectShortName">pll_lckd</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/tmds" type="logic">
+      <obj_property name="ElementShortName">tmds</obj_property>
+      <obj_property name="ObjectShortName">tmds</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/datain" type="array">
+      <obj_property name="ElementShortName">datain[9:0]</obj_property>
+      <obj_property name="ObjectShortName">datain[9:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/i" type="array">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/px1p25_dbg_clk" type="logic">
+      <obj_property name="ElementShortName">px1p25_dbg_clk</obj_property>
+      <obj_property name="ObjectShortName">px1p25_dbg_clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/PERIOD" type="other">
+      <obj_property name="ElementShortName">PERIOD</obj_property>
+      <obj_property name="ObjectShortName">PERIOD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/serdes/mdout" type="array">
+      <obj_property name="ElementShortName">mdout[7:0]</obj_property>
+      <obj_property name="ObjectShortName">mdout[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/serdes/gb8to10/dataout" type="array">
+      <obj_property name="ElementShortName">dataout[9:0]</obj_property>
+      <obj_property name="ObjectShortName">dataout[9:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/serdes/gb8to10/read_addra" type="array">
+      <obj_property name="ElementShortName">read_addra[3:0]</obj_property>
+      <obj_property name="ObjectShortName">read_addra[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/serdes/gb8to10/read_addrb" type="array">
+      <obj_property name="ElementShortName">read_addrb[3:0]</obj_property>
+      <obj_property name="ObjectShortName">read_addrb[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/serdes/gb8to10/write_addr" type="array">
+      <obj_property name="ElementShortName">write_addr[3:0]</obj_property>
+      <obj_property name="ObjectShortName">write_addr[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/serdes/gb8to10/write_reset" type="logic">
+      <obj_property name="ElementShortName">write_reset</obj_property>
+      <obj_property name="ObjectShortName">write_reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/serdes/gb8to10/read_reset" type="logic">
+      <obj_property name="ElementShortName">read_reset</obj_property>
+      <obj_property name="ObjectShortName">read_reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/serdes/gb8to10/read_enable" type="logic">
+      <obj_property name="ElementShortName">read_enable</obj_property>
+      <obj_property name="ObjectShortName">read_enable</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/serdes/gb8to10/read_enable_oclk" type="logic">
+      <obj_property name="ElementShortName">read_enable_oclk</obj_property>
+      <obj_property name="ObjectShortName">read_enable_oclk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/serdes/gb8to10/ramouta" type="array">
+      <obj_property name="ElementShortName">ramouta[7:0]</obj_property>
+      <obj_property name="ObjectShortName">ramouta[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/serdes/gb8to10/ramoutb" type="array">
+      <obj_property name="ElementShortName">ramoutb[7:0]</obj_property>
+      <obj_property name="ObjectShortName">ramoutb[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serdes_tb_1/bitslip" type="logic">
+      <obj_property name="ElementShortName">bitslip</obj_property>
+      <obj_property name="ObjectShortName">bitslip</obj_property>
+   </wvobject>
+</wave_config>
